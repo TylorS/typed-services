@@ -1,0 +1,19 @@
+{
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md",
+        "*.test.ts",
+        "*.browser-test.ts"
+      ]
+    },
+    "init": {
+      "exact": true
+    }
+  },
+  "packages": [
+    "applications/*",
+    "packages/*"
+  ],
+  "version": "independent"
+}
