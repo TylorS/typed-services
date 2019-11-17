@@ -2,17 +2,17 @@
   "version": "1.0.0",
   "licensezero": [
     {
-      "agentSignature": "960f0f382877beb0caa87ddc1c162773e17cfd27be4c1001b570c37e92ed86de1f197ef3a0c0a7ee2f9ba55ec41fa9126d1463b12124b81c8d1a5f6dbdfec403",
+      "agentSignature": "a27d719bee86acfd79ec53886df71a591fdb02a9d78c953de063cf653e9e919b39c5754a185776b8c5b6ddb41078c023b13b7e0b3b09f6c3957931e1214ea90c",
       "license": {
         "homepage": "https://github.com/TylorS/typed-services",
         "jurisdiction": "US-RI",
         "name": "Tylor Steinberger",
-        "projectID": "8b7fc2c6-4988-4d1f-83a9-6b9df64d62cb",
+        "projectID": "48916044-25ef-4f38-b813-2af96819c3fb",
         "publicKey": "ff9b1c83a35987dcfbaa426b00388fbefc42560344b83c738dbe7c0d49937e39",
         "terms": "parity",
         "version": "7.0.0"
       },
-      "licensorSignature": "69119c5effcb0fdc165e2cf3f4cfb6e9096906c4b1a33cd33e2403f557273fc38bfc3c4073b91823cec1d876dd863e4057ca9b51e163aba668916ae353d50504"
+      "licensorSignature": "5c80d1dff8816eaf813b9989381a37985dfcbe42f4eb0c8688426ba873be2207dd04c0f03f665bd4ebdd30e436a96e7a920d75b8e440212325b560aef0769f0e"
     }
   ]
 }
